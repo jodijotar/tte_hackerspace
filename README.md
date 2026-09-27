@@ -1,6 +1,6 @@
 <img src="assets/tte_hackerspace-ascii-art.png">
 
-*espaço comunitário e colaborativo para estudantes da fatec interessadas em tecnologia, segurança e cultura hacker *
+*espaço comunitário e colaborativo para estudantes da fatec interessados em cultura hacker*
 
 ---
 ## visão geral
